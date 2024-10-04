@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|c:\\users\\tobias zair\\desktop\\practica04\\practica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|c:\\users\\tobias zair\\desktop\\practica04\\practica04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|c:\\users\\tobias zair\\desktop\\practica04\\practica04\\data\\models\\serviciodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|solutionrelative:data\\models\\serviciodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|c:\\users\\tobias zair\\desktop\\practica04\\practica04\\data\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|solutionrelative:data\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|c:\\users\\tobias zair\\desktop\\practica04\\practica04\\data\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|solutionrelative:data\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|c:\\users\\tobias zair\\desktop\\practica04\\practica04\\data\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|solutionrelative:data\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|c:\\users\\tobias zair\\desktop\\practica04\\practica04\\data\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED2C7F-8715-48F9-8E0B-BF08D8B6C563}|Practica04.csproj|solutionrelative:data\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T03:59:16.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Models\\ServicioDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ServicioDbContext.cs",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Models\\ServicioDbContext.cs",
+              "RelativeToolTip": "Data\\Models\\ServicioDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:58:18.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:52:08.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Services\\IServicioService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\IServicioService.cs",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Services\\IServicioService.cs",
+              "RelativeToolTip": "Data\\Services\\IServicioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:18:56.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Services\\ServicioService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\ServicioService.cs",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Services\\ServicioService.cs",
+              "RelativeToolTip": "Data\\Services\\ServicioService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:19:05.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Repositories\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Repositories\\ServicioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ServicioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:18:30.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Repositories\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Tobias Zair\\Desktop\\Practica04\\Practica04\\Data\\Repositories\\IServicioRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IServicioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:18:13.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
